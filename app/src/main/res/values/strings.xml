@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleMapExplore</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="get_route">Get Route</string>
+</resources>
